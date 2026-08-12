@@ -1,6 +1,23 @@
+# eulertools organization
+
+The `eulertools` GitHub organization is **sunset**. Product source of truth has moved.
+
+| What | Where |
+|------|--------|
+| **Organized archive** (private) | https://github.com/tebayoso/eulertools |
+| **Raw dump** (private, July 2026) | https://github.com/tebayoso/euler-tools-platform |
+| **Poxme** | https://github.com/tebayoso/poxme-monorepo and https://github.com/tebayoso/poxme (also `tebayoso/poxme*`) |
+| **Omnicost** | https://github.com/tebayoso/omnicost |
+
+The 123 product repos under this org are **archived** and point at dest paths in `tebayoso/eulertools` (or the Poxme / Omnicost repos above). This repository stays public as the org landing pointer and audit manifest.
+
+Cutover date: **2026-08-12**.
+
+---
+
 # eulertools-platform Manifest
 
-> Consolidation manifest for the [eulertools](https://github.com/eulertools) GitHub organization.
+> Historical consolidation manifest for the [eulertools](https://github.com/eulertools) GitHub organization. See the table above for current locations.
 
 ## Purpose
 
