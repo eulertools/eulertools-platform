@@ -6,7 +6,7 @@ The `eulertools` GitHub organization is **sunset**. Product source of truth has 
 |------|--------|
 | **Organized archive** (private) | https://github.com/tebayoso/eulertools |
 | **Raw dump** (private, July 2026) | https://github.com/tebayoso/euler-tools-platform |
-| **Poxme** | https://github.com/tebayoso/poxme-monorepo and https://github.com/tebayoso/poxme (also `tebayoso/poxme*`) |
+| **Poxme** | https://github.com/proofxme/poxme-monorepo and https://github.com/proofxme/poxme (also `proofxme/poxme*`) |
 | **Omnicost** | https://github.com/tebayoso/omnicost |
 
 The 122 product repos under this org are **archived** and point at dest paths in `tebayoso/eulertools` (or the Poxme / Omnicost repos above). This repository stays public as the org landing pointer and audit manifest. `.github` stays live for org profile/templates.
